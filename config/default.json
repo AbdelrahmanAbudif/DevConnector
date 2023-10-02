@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://AbdelrhmanAbudif:72LhqdscI4W3pq76@cluster0.xtnxnud.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://AbdelrhmanAbudif:72LhqdscI4W3pq76@cluster0.xtnxnud.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret" : "TokenTokenToken"
 }
